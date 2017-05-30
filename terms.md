@@ -13,8 +13,7 @@ The following document outlines the terms of use of the Riize web application. B
 	**Summary**
 
 	_Basically,_ We develop a climbing community and provide services to create online profiles and track climbing activity. We will develop more features and services in the future.
-
----
+	
 
 2. **ACCEPTANCE OF TERMS**.
 
@@ -25,5 +24,3 @@ The following document outlines the terms of use of the Riize web application. B
 	**Summary**
 
 	_Basically,_ By using Riize, you agree to all the terms below.
-
----
