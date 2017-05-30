@@ -155,22 +155,22 @@ The following document outlines the terms of use of the Riize web application. B
 
 	If you believe in good faith that your work has been copied in a way that constitutes copyright infringement, please provide us with a written notice containing the following information:
 
-		* Your name, address, telephone number, and email address (if any);
-		* A description of the copyrighted work that you claim has been infringed;
-		* A description of where on the Website the material that you claim is infringing may be found, sufficient for Riize to locate the material (e.g., the URL);
-		* A statement that you have a good faith belief that the use of the copyrighted work is not authorized by the copyright Riize, its agent, or the law and is not a fair use;
-		* A statement by you UNDER PENALTY OF PERJURY that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf; and
-		* Your electronic or physical signature.
+	* Your name, address, telephone number, and email address (if any);
+	* A description of the copyrighted work that you claim has been infringed;
+	* A description of where on the Website the material that you claim is infringing may be found, sufficient for Riize to locate the material (e.g., the URL);
+	* A statement that you have a good faith belief that the use of the copyrighted work is not authorized by the copyright Riize, its agent, or the law and is not a fair use;
+	* A statement by you UNDER PENALTY OF PERJURY that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf; and
+	* Your electronic or physical signature.
 
 	**Filing a DMCA Counter-Notice to Restore Content Removed from the Website**
 
 	If you believe that your material has been removed by mistake or misidentification, please provide Riize with a written counter-notification containing the following information:
 
-		* Your name, address, telephone number, and email address (if any);
-		* A description of the material that was removed and the location on the Website (e.g., the URL) where it previously appeared;
-		* A statement UNDER PENALTY OF PERJURY that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification;
-		* A statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located, or if your address is outside of the United States, any judicial district in which Riize may be found (which includes the United States District Court for the Southern District of New York), and that you will accept service of process from the person who filed the original DMCA notice or an agent of that person; and
-		* Your electronic or physical signature.
+	* Your name, address, telephone number, and email address (if any);
+	* A description of the material that was removed and the location on the Website (e.g., the URL) where it previously appeared;
+	* A statement UNDER PENALTY OF PERJURY that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification;
+	* A statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located, or if your address is outside of the United States, any judicial district in which Riize may be found (which includes the United States District Court for the Southern District of New York), and that you will accept service of process from the person who filed the original DMCA notice or an agent of that person; and
+	* Your electronic or physical signature.
 
 	_**Basically,**_
 
