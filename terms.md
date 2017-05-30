@@ -90,7 +90,7 @@ The following document outlines the terms of use of the Riize web application. B
 		* Riize uses industry recognized software and measures to restrict the ability of users and visitors to the Site to make high resolution copies of Visual Content posted on the Site. Notwithstanding this, Riize makes no representation and warranty that Visual Content posted on the Site will not be unlawfully copied without your consent. Riize does not restrict the ability of users and visitors to the Site to make low resolution or ‘thumbnail’ copies of Visual Content posted on the Site and you hereby expressly authorize Riize to permit users and visitors to the Site to make such low resolution copies of the Visual Content; and
 		* Subject to the terms of the foregoing license, ownership or other rights in the Visual Content including any intellectual property rights or other proprietary rights associated with the Visual Content are retained by you or the Visual Content owner represented by You.
 
-	1. You represent and warrant that:
+	2. You represent and warrant that:
 		* You are the owner or the authorized representative of the owner of all rights, including all copyrights in and to all Visual Content you submit to the site;
 		* You have the full and complete authority and right to enter into this agreement and to grant to Riize the rights in the Visual Content herein granted, and that no further permissions are required from, nor payments required to be made to any other person in connection with the use by Riize of the Visual Content as contemplated herein; and
 		* The Visual Content does not defame any person and does not infringe upon the copyright, moral rights, publicity rights, privacy rights or any other right of any person, or violate any law or judicial or governmental order.
@@ -108,7 +108,7 @@ The following document outlines the terms of use of the Riize web application. B
 	2. Riize may modify, suspend or discontinue Services provided to Premium Account holders at any time at its sole discretion and without prior notice.
 	3. Riize provides new Premium Account holders with a thirty (30) day trial period and will provide a full refund if you choose to terminate your Premium Account within this period by providing a notice in writing to Riize of your Account termination that will be effective upon receipt (the “Termination Date”). If you choose to terminate your Premium Account after the 30-day trial period, you are not entitled to any refund for any fees paid for your Premium Account.
 	4. Any refund owing to you will be paid within 30 days of the Termination Date provided your written notice of termination includes your username and full name as it appears on your account or on your credit card.
-
+	
 	Summary |
 	------- |
 	We offer a free 14 day no-obligation trial to try all the features of Pro accounts. Refunds apply only to services described on the Upgrade page. |
