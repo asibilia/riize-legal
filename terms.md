@@ -19,3 +19,15 @@ The following document outlines the terms of use of the Riize web application. B
 	**Summary**
 
 	_Basically,_ By using Riize, you agree to all the terms below.
+
+3. **MODIFICATION OF TERMS**
+
+	500px reserves the right, at its sole discretion, to modify or replace the terms at any time. If the alterations constitute a material change to the terms, 500px will notify you by posting an announcement on the site. What constitutes a material change will be determined at 500px’s sole discretion. You shall be responsible for reviewing and becoming familiar with any such modifications. Using any Service or viewing any Visual Content shall constitute your acceptance of the Terms as modified.
+
+	In addition, when using particular features of the Services, you shall be subject to any posted guidelines or rules applicable to such Services.
+
+	Your access to and use of the Site and our Services may be interrupted from time to time as a result of equipment malfunction, updating, maintenance or repair of the Site or any other reason within or outside the control of 500px. 500px reserves the right to suspend or discontinue the availability of the Site and/or any Service and/or remove any Visual Content at any time at its sole discretion and without prior notice. 500px may also impose limits on certain features and Services or restrict your access to parts of or all of the Site and the Services without notice or liability. The Site should not be used or relied upon for storage of your Visual Content and you are directed to retain your own copies of all Visual Content posted on the Site.
+
+	_**Basically,**_
+
+	If these terms change, we will notify you. As well, at times things can go wrong and the service may be interrupted. It’s unlikely, but sometimes things can go really wrong.
