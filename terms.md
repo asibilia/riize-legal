@@ -1,6 +1,6 @@
 # Terms of Service
 
-The following document outlines the terms of use of the Riize web application. Before using any of the Riize services, you are required to read, understand, and agree to these terms. Each section has a summary starting with "Basically" that provides a short explanation of the terms of use.
+The following document outlines the terms of use of the Riize web application. Before using any of the Riize services, you are required to read, understand, and agree to these terms. Each section has a summary that provides a short explanation of the terms of use.
 
 ---
 
@@ -8,17 +8,17 @@ The following document outlines the terms of use of the Riize web application. B
 
 	Sibilia Design, LLC. (Riize or “We”) provides a platform via its website and apps (the “Site”) to a community of registered users (“Users” or “you”) to upload and display photographs and video (“Visual Content”) share comments, opinions and ideas, promote Visual Content collections, participate in contests and promotions, register for premium membership accounts (“Premium Accounts”), and license Visual Content as part of our Marketplace to other users (the “Services”). Additional Services may be offered by us from time to time. The following are the terms of service (“Terms”) for using the Site and the Services.
 
-	_**Basically,**_
-
-	We develop a climbing community and provide services to create online profiles and track climbing activity. We will develop more features and services in the future.
+	Summary |
+	------- |
+	We develop a climbing community and provide services to create online profiles and track climbing activity. We will develop more features and services in the future. |
 
 2. **ACCEPTANCE OF TERMS.**
 
 	BY USING THE SERVICES, YOU ARE AGREEING, ON BEHALF OF YOURSELF AND THOSE YOU REPRESENT, TO COMPLY WITH AND BE LEGALLY BOUND BY THESE TERMS AS WELL AS OUR [PRIVACY POLICY](https://github.com/asibilia/riize-legal/blob/master/privacy.md) AND ALL APPLICABLE LAWS. IF YOU, FOR YOURSELF OR ON BEHALF OF THOSE YOU REPRESENT, DO NOT AGREE TO ANY PROVISION OF THESE TERMS, YOU MUST, FOR YOURSELF AND ON BEHALF ANY SUCH PERSON(S), DISCONTINUE THE REGISTRATION PROCESS, DISCONTINUE YOUR USE OF THE SERVICES, AND, IF YOU ARE ALREADY REGISTERED, CANCEL YOUR ACCOUNT.
 
-	_**Basically,**_
-
-	By using Riize, you agree to all the terms below.
+	Summary |
+	------- |
+	By using Riize, you agree to all the terms below. |
 
 4. **MODIFICATION OF TERMS**
 
@@ -28,9 +28,9 @@ The following document outlines the terms of use of the Riize web application. B
 
 	Your access to and use of the Site and our Services may be interrupted from time to time as a result of equipment malfunction, updating, maintenance or repair of the Site or any other reason within or outside the control of Riize. Riize reserves the right to suspend or discontinue the availability of the Site and/or any Service and/or remove any Visual Content at any time at its sole discretion and without prior notice. Riize may also impose limits on certain features and Services or restrict your access to parts of or all of the Site and the Services without notice or liability. The Site should not be used or relied upon for storage of your Visual Content and you are directed to retain your own copies of all Visual Content posted on the Site.
 
-	_**Basically,**_
-
-	If these terms change, we will notify you. As well, at times things can go wrong and the service may be interrupted. It’s unlikely, but sometimes things can go really wrong.
+	Summary |
+	------- |
+	If these terms change, we will notify you. As well, at times things can go wrong and the service may be interrupted. It’s unlikely, but sometimes things can go really wrong. |
 
 5. **REGISTRATION**
 
@@ -44,9 +44,9 @@ The following document outlines the terms of use of the Riize web application. B
 
 	The Services are for use by a) individuals who own Visual Content; b) entities that represent owners of Visual Content including but not limited to galleries, agents, representatives, distributors other market intermediaries; and c) individuals and entities seeking to license Visual Content. We are currently not accepting illustration and graphic design content to upload on the Site. If you are the owner of the Visual Content, but not the creator, you are not allowed to upload content for the purposes of self advertising.
 
-	_**Basically,**_
-
-	To fully use the services, you need to create your own account, without violating other people’s rights.
+	Summary |
+	------- |
+	To fully use the services, you need to create your own account, without violating other people’s rights. |
 
 6. **USER CONDUCT**
 
@@ -67,13 +67,13 @@ The following document outlines the terms of use of the Riize web application. B
 	10. To promote or sell Visual Content of another person; or
 	11. To sell or otherwise transfer your profile.
 
-	To report a suspected abuse of the Site or a breach of the Terms (other than relating to copyright infringement which is addressed under “COPYRIGHT COMPLAINTS” below) please send written notice to Riize at email: help@Riize.com.
+	To report a suspected abuse of the Site or a breach of the Terms (other than relating to copyright infringement which is addressed under “COPYRIGHT COMPLAINTS” below) please send written notice to Riize at email: [sibilia.alec@gmail.com](sibilia.alec@gmail.com).
 
 	You are solely responsible for your interactions with other users of the Site. Riize reserves the right, but has no obligation, to monitor disputes between you and other users.
 
-	_**Basically,**_
-
-	You cannot use our site to post pornographic material, harass people, send spam, and do other crazy stuff. Be reasonable and responsible, don't do anything stupid, and you'll be fine.
+	Summary |
+	------- |
+	You cannot use our site to post pornographic material, harass people, send spam, and do other crazy stuff. Be reasonable and responsible, don't do anything stupid, and you'll be fine. |
 
 7. **CONTENT SUBMITTED OR MADE AVAILABLE FOR INCLUSION ON THE SERVICE**
 
@@ -96,9 +96,9 @@ The following document outlines the terms of use of the Riize web application. B
 		* The Visual Content does not defame any person and does not infringe upon the copyright, moral rights, publicity rights, privacy rights or any other right of any person, or violate any law or judicial or governmental order.
 	3. You shall not have any right to terminate the permissions granted herein, nor to seek, obtain, or enforce any injunctive or other equitable relief against Riize, all of which such rights are hereby expressly and irrevocably waived by you in favor of Riize.
 
-	_**Basically,**_
-
-	Your photos will preserve whatever copyright they had before uploading to this site. We will protect the copyright and we will not sell your photos without your permission.
+	Summary |
+	------- |
+	Your photos will preserve whatever copyright they had before uploading to this site. We will protect the copyright and we will not sell your photos without your permission. |
 
 8. **PREMIUM ACCOUNT SERVICES**
 
@@ -109,9 +109,9 @@ The following document outlines the terms of use of the Riize web application. B
 	3. Riize provides new Premium Account holders with a thirty (30) day trial period and will provide a full refund if you choose to terminate your Premium Account within this period by providing a notice in writing to Riize of your Account termination that will be effective upon receipt (the “Termination Date”). If you choose to terminate your Premium Account after the 30-day trial period, you are not entitled to any refund for any fees paid for your Premium Account.
 	4. Any refund owing to you will be paid within 30 days of the Termination Date provided your written notice of termination includes your username and full name as it appears on your account or on your credit card.
 
-	_**Basically,**_
-
-	We offer a free 14 day no-obligation trial to try all the features of Pro accounts. Refunds apply only to services described on the Upgrade page.
+	Summary |
+	------- |
+	We offer a free 14 day no-obligation trial to try all the features of Pro accounts. Refunds apply only to services described on the Upgrade page. |
 
 9. **FAIR STORAGE POLICY**
 
@@ -121,9 +121,9 @@ The following document outlines the terms of use of the Riize web application. B
 
 	Premium Accounts are limited to maximum of 1,000 new photographs/images per week and 100,000 photographs/ images in total (approximately 3,000Gb of storage and 10Gb of data transfer per month). Premium Accounts that exceed a limit for several months will be notified of their usage and restrictions may be imposed if usage is not corrected.
 
-	_**Basically,**_
-
-	If you use more than your fair share, we may gradually limit your account.
+	Summary |
+	------- |
+	If you use more than your fair share, we may gradually limit your account. |
 
 10. **MARKETPLACE**
 
@@ -133,17 +133,17 @@ The following document outlines the terms of use of the Riize web application. B
 
 	The Marketplace is a Service provided by Riize that allows users who enter into a Riize Contributor Agreement to post Visual Content for sale to the public. Visual Content is licensed directly by Riize and through its third party Marketplace Content partners to users pursuant to an end user license agreement. To use the Marketplace you must be at least 18 years of age and have a valid Riize account. In order to upload Visual Content to the Marketplace ( your “Marketplace Content ”) you must agree to these additional contributor terms.
 
-	_**Basically,**_
-
-	If you register to use the Marketplace, the following terms apply to you. You must also agree to the additional contributor terms.
+	Summary |
+	------- |
+	If you register to use the Marketplace, the following terms apply to you. You must also agree to the additional contributor terms. |
 
 11. **COPYRIGHT COMPLAINTS**
 
 	Riize respects the intellectual property rights of others. It is our policy to respond promptly any claim that Content posted on the Site infringes the copyright or other intellectual property infringement (“Infringement”) of any person. Riize will use reasonable efforts to investigate notices of alleged Infringement and will take appropriate action under applicable intellectual property law and these Terms where it believes an Infringement has taken place, including removing or disabling access to the Content claimed to be infringing and/or terminating accounts and access to the Site.
 
-	To notify Riize of a possible Infringement you must submit your notice in writing to the attention of “Copyright Infringement” care of help@Riize.com and include in your notice a detailed description of the alleged Infringement sufficient to enable Riize to make a reasonable determination. Please note that you may be held accountable for damages (including costs and attorneys’ fees) for misrepresenting that any Content is infringing your copyright.
+	To notify Riize of a possible Infringement you must submit your notice in writing to the attention of “Copyright Infringement” care of [sibilia.alec@gmail.com](sibilia.alec@gmail.com) and include in your notice a detailed description of the alleged Infringement sufficient to enable Riize to make a reasonable determination. Please note that you may be held accountable for damages (including costs and attorneys’ fees) for misrepresenting that any Content is infringing your copyright.
 
-	If we remove or disable access to Content in response to a notice of Infringement, we will make reasonable attempts to contact the user who posted the affected Content. If you feel that your Content is not infringing, you may provide Riize with a counter notice in writing to the attention of “Copyright Infringement Counter Notification” at help@Riize.com. You must include in your counter notice sufficient information to enable Riize to make a reasonable determination. Please note that you may be held accountable for damages (including costs and attorneys' fees) if you materially misrepresent that your Content is not infringing the copyrights of others.
+	If we remove or disable access to Content in response to a notice of Infringement, we will make reasonable attempts to contact the user who posted the affected Content. If you feel that your Content is not infringing, you may provide Riize with a counter notice in writing to the attention of “Copyright Infringement Counter Notification” at [sibilia.alec@gmail.com](sibilia.alec@gmail.com). You must include in your counter notice sufficient information to enable Riize to make a reasonable determination. Please note that you may be held accountable for damages (including costs and attorneys' fees) if you materially misrepresent that your Content is not infringing the copyrights of others.
 
 	If you are uncertain whether an activity constitutes Infringement, we recommended seeking advice of an attorney.
 
@@ -172,16 +172,16 @@ The following document outlines the terms of use of the Riize web application. B
 	* A statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located, or if your address is outside of the United States, any judicial district in which Riize may be found (which includes the United States District Court for the Southern District of New York), and that you will accept service of process from the person who filed the original DMCA notice or an agent of that person; and
 	* Your electronic or physical signature.
 
-	_**Basically,**_
-
-	We respect copyright. If anything is wrong, please send an email with all the details to help@Riize.com.
+	Summary |
+	------- |
+	We respect copyright. If anything is wrong, please send an email with all the details to [sibilia.alec@gmail.com](sibilia.alec@gmail.com). |
 
 12. **LINKS**
 
 	The Services may provide, or third parties may provide, links to other World Wide Web sites or resources. Because Riize has no control over such sites and resources, you acknowledge and agree that Riize is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any content, advertising, products or other materials on or available from such sites or resources. You further acknowledge and agree that Riize shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such site or resource.
 
-	_**Basically,**_
-
+	Summary |
+	------- |
 	Some people may post links; we are not responsible for those links.
 
 13. **RELEASE AND INDEMNITY**
@@ -190,17 +190,17 @@ The following document outlines the terms of use of the Riize web application. B
 
 	You hereby agree to indemnify and hold harmless Riize, its affiliated and associated companies, and their respective directors, officers, employees, agents, representatives, independent and dependent contractors, licensees, successors and assigns from and against all claims, losses, expenses, damages and costs (including, but not limited to, direct, incidental, consequential, exemplary and indirect damages), and reasonable attorneys' fees, resulting from or arising out of (i) a breach of these Terms, (ii) Content posted on the Site, (iii) the use of the Services, by you or any person using your account or Riize Username and password, (iv) the sale or use of your Marketplace Images, or (v) any violation of any rights of a third party.
 
-	_**Basically,**_
-
-	We are not liable if something goes really wrong. Always have a backup of your photos.
+	Summary |
+	------- |
+	We are not liable if something goes really wrong. Always have a backup of your photos. |
 
 14. **TRADEMARKS**
 
 	Riize, Riize.com and other Riize graphics, logos, designs, page headers, button icons, scripts, and service names are registered trademarks, trademarks or trade dress of Riize. Riize’s trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Riize. The images and icons available in the Riize icon pack may used by partners and third party sites in connection with providing appropriate links to the Riize Site.
 
-	_**Basically,**_
-
-	Please respect our trademarks and brands.
+	Summary |
+	------- |
+	Please respect our trademarks and brands. |
 
 15. **TERMINATION**
 
@@ -208,9 +208,9 @@ The following document outlines the terms of use of the Riize web application. B
 
 	It is your responsibility to remove all Visual Content from your account prior to termination. Upon termination of your account Riize will automatically remove all Visual Content posted to your account.
 
-	_**Basically,**_
-
-	We may stop providing services at any time. You can also stop using your account or close your account at any time.
+	Summary |
+	------- |
+	We may stop providing services at any time. You can also stop using your account or close your account at any time. |
 
 16. **WARRANTY DISCLAIMER**
 
@@ -236,6 +236,6 @@ The following document outlines the terms of use of the Riize web application. B
 
 	These Terms constitute the entire understanding of the parties and supersede all prior and contemporaneous written and oral agreements with respect to the subject matter hereof. Any rule of construction stating that ambiguities are to be resolved against the drafting party will not be applied in the construction or interpretation of these Terms. If one or more of the provisions herein shall be held invalid, illegal or unenforceable in any respect, the validity, legality and enforcement of the remaining provisions shall not be affected or impaired. Any inconsistency between these Terms in English and these Terms in any other language shall, to the fullest extent permitted by applicable law, be resolved by reference to the English version. The failure to enforce or the waiver by either party of a default or breach of the other party shall not be considered to be a waiver of any prior, subsequent or other default or breach.
 
-	_**Basically,**_
-
-	We are not liable if things go really wrong. Things can happen — we are not responsible.
+	Summary |
+	------- |
+	We are not liable if things go really wrong. Things can happen — we are not responsible. |
