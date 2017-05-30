@@ -17,4 +17,4 @@ In the event that you notice confusing wording or think of an addition which wou
 
 If you'd like to contribute, you can go ahead and [create a new issue](https://github.com/asibilia/riize-legal/issues/new). This will require a GitHub account but should be a relatively easy process.
 
-If your question or concern is more private or you don't want a GitHub account, you can email us at support@blockscore.com and we'll get back to you as soon as possible. However, we do encourage open discussion of our terms.
+If your question or concern is more private or you don't want a GitHub account, you can email us at sibilia.alec@gmail.com and we'll get back to you as soon as possible. However, we do encourage open discussion of our terms.
