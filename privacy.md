@@ -3,6 +3,8 @@ Riize is founded on the principle of helping people improve as a climber and an 
 
 This Privacy Policy covers Riize's treatment of personal information that Riize gathers when you are on the Riize website and when you use Riize services. This policy does not apply to the practices of third parties that Riize does not own or control, or to individuals that Riize does not employ or manage.
 
+---
+
 1. **INFORMATION COLLECTED BY Riize**
 
 	We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We collect the following types of information from our Riize users:
