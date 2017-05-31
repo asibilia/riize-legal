@@ -55,16 +55,26 @@ The following document outlines the terms of use of the Riize web application. B
 	As a condition of use, you promise not to use the Services for any purpose that is unlawful or prohibited by these Terms, or any other purpose not reasonably intended by Riize. By way of example, and not as a limitation, you agree not to use the Services:
 
 	1. To abuse, harass, threaten, impersonate or intimidate any person;
+
 	2. To post or transmit, or cause to be posted or transmitted, any Visual Content or Communications that are libelous, defamatory, obscene, pornographic, abusive, offensive, profane, or that infringes any copyright or other right of any person;
+
 	3. For any purpose (including posting or viewing Visual Content) that is not permitted under the laws of the jurisdiction where you use the Services;
+
 	4. To post or transmit, or cause to be posted or transmitted, any Communication designed or intended to obtain password, account, or private information from any Riize user;
+
 	5. To create or transmit unwanted ‘spam’ to any person or any URL
+
 	6. To create multiple accounts for the purpose of voting for or against users’ Visual Content;
+
 	7. To post copyrighted Visual Content or other Communications that do not belong to you or, with exception of commenting on Visual Content in Blogs, where you may post such Content with explicit mention of the author’s name and a link to the source of the Content;
+
 	8. With the exception of accessing RSS feeds, you agree not to use any robot, spider, scraper or other automated means to access the Site for any purpose without our express written permission. Additionally, you agree that you will not: (i) take any action that imposes, or may impose in our sole discretion an unreasonable or disproportionately large load on our infrastructure; (ii) interfere or attempt to interfere with the proper working of the Site or any activities conducted on the Site; or (iii) bypass any measures we may use to prevent or restrict access to the Site;
 	To artificially inﬂate or alter vote counts, blog counts, comments, or any other Service or for the purpose of giving or receiving money or other compensation in exchange for votes, or for participating in any other organized effort that in any way artificially alters the results of Services;
+
 	9. To advertise to, or solicit, any user to buy or sell any third party products or services, or to use any information obtained from the Services in order to contact, advertise to, solicit, or sell to any user without their prior explicit consent;
+
 	10. To promote or sell Visual Content of another person; or
+
 	11. To sell or otherwise transfer your profile.
 
 	To report a suspected abuse of the Site or a breach of the Terms (other than relating to copyright infringement which is addressed under “COPYRIGHT COMPLAINTS” below) please send written notice to Riize at email: [sibilia.alec@gmail.com](sibilia.alec@gmail.com).
@@ -83,17 +93,26 @@ The following document outlines the terms of use of the Riize web application. B
 
 	1. You acknowledge that:
 		* Any Visual Content uploaded to your account must be photographed by you;
+
 		* By uploading your photographic or graphic works to Riize you retain full rights to those works that you had prior to uploading;
+
 		* By posting Visual Content to the Site you grant to Riize a non-exclusive, transferable, fully paid, worldwide license (with the right to sublicense) to use, distribute, reproduce, modify, adapt, publicly perform and publicly display such Visual Content in connection with the Services. This license will exist for the period during which the Visual Content is posted on the Site and will automatically terminate upon the removal of the Visual Content from the Site;
+
 		* The license granted to Riize includes the right to use Visual Content fully or partially for promotional reasons and to distribute and redistribute Visual Content to other parties, websites, authorized agents, applications, and other entities, provided such Visual Content is attributed in accordance with the credits (i.e. username or collection name, profile picture, photo title, descriptions, tags, and other accompanying information) if any and as appropriate, as submitted to Riize (notwithstanding the foregoing, no inadvertent failure to provide attribution shall be considered a breach of these Terms);
+
 		* Riize has the right to modify, alter and amend photo titles, descriptions, tags, and other accompanying information for any Visual Content and the right to submit Visual Content to other parties and authorized agents for the purpose of creating tags for Visual Content;
+
 		* Riize uses industry recognized software and measures to restrict the ability of users and visitors to the Site to make high resolution copies of Visual Content posted on the Site. Notwithstanding this, Riize makes no representation and warranty that Visual Content posted on the Site will not be unlawfully copied without your consent. Riize does not restrict the ability of users and visitors to the Site to make low resolution or ‘thumbnail’ copies of Visual Content posted on the Site and you hereby expressly authorize Riize to permit users and visitors to the Site to make such low resolution copies of the Visual Content; and
+
 		* Subject to the terms of the foregoing license, ownership or other rights in the Visual Content including any intellectual property rights or other proprietary rights associated with the Visual Content are retained by you or the Visual Content owner represented by You.
 
 	2. You represent and warrant that:
 		* You are the owner or the authorized representative of the owner of all rights, including all copyrights in and to all Visual Content you submit to the site;
+
 		* You have the full and complete authority and right to enter into this agreement and to grant to Riize the rights in the Visual Content herein granted, and that no further permissions are required from, nor payments required to be made to any other person in connection with the use by Riize of the Visual Content as contemplated herein; and
+
 		* The Visual Content does not defame any person and does not infringe upon the copyright, moral rights, publicity rights, privacy rights or any other right of any person, or violate any law or judicial or governmental order.
+
 	3. You shall not have any right to terminate the permissions granted herein, nor to seek, obtain, or enforce any injunctive or other equitable relief against Riize, all of which such rights are hereby expressly and irrevocably waived by you in favor of Riize.
 
 	Summary |
@@ -105,10 +124,14 @@ The following document outlines the terms of use of the Riize web application. B
 	Riize provides premium services to holders of its ‘Awesome’, ‘Pro’ or ‘Pro+’ Premium Accounts. To register for a Premium Account, you must be at least 18 years of age and have a valid Riize account. In addition to the general terms and conditions provided for by these Terms, the following terms and conditions apply specifically to Premium Account holders:
 
 	1. Services available to Premium Account holders are described on the account Upgrade page. Premium Accounts are only available on an annual membership basis.
-	2. Riize may modify, suspend or discontinue Services provided to Premium Account holders at any time at its sole discretion and without prior notice.
+
+	2. Riize may modify, suspend or discontinue Services provided to Premium Account holders at any time at its sole
+	discretion and without prior notice.
+
 	3. Riize provides new Premium Account holders with a thirty (30) day trial period and will provide a full refund if you choose to terminate your Premium Account within this period by providing a notice in writing to Riize of your Account termination that will be effective upon receipt (the “Termination Date”). If you choose to terminate your Premium Account after the 30-day trial period, you are not entitled to any refund for any fees paid for your Premium Account.
+
 	4. Any refund owing to you will be paid within 30 days of the Termination Date provided your written notice of termination includes your username and full name as it appears on your account or on your credit card.
-	
+
 	Summary |
 	------- |
 	We offer a free 14 day no-obligation trial to try all the features of Pro accounts. Refunds apply only to services described on the Upgrade page. |
@@ -156,10 +179,15 @@ The following document outlines the terms of use of the Riize web application. B
 	If you believe in good faith that your work has been copied in a way that constitutes copyright infringement, please provide us with a written notice containing the following information:
 
 	* Your name, address, telephone number, and email address (if any);
+
 	* A description of the copyrighted work that you claim has been infringed;
+
 	* A description of where on the Website the material that you claim is infringing may be found, sufficient for Riize to locate the material (e.g., the URL);
+
 	* A statement that you have a good faith belief that the use of the copyrighted work is not authorized by the copyright Riize, its agent, or the law and is not a fair use;
+
 	* A statement by you UNDER PENALTY OF PERJURY that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf; and
+
 	* Your electronic or physical signature.
 
 	**Filing a DMCA Counter-Notice to Restore Content Removed from the Website**
@@ -167,10 +195,15 @@ The following document outlines the terms of use of the Riize web application. B
 	If you believe that your material has been removed by mistake or misidentification, please provide Riize with a written counter-notification containing the following information:
 
 	* Your name, address, telephone number, and email address (if any);
+
 	* A description of the material that was removed and the location on the Website (e.g., the URL) where it previously appeared;
+
 	* A statement UNDER PENALTY OF PERJURY that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification;
+
 	* A statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located, or if your address is outside of the United States, any judicial district in which Riize may be found (which includes the United States District Court for the Southern District of New York), and that you will accept service of process from the person who filed the original DMCA notice or an agent of that person; and
+
 	* Your electronic or physical signature.
+
 
 	Summary |
 	------- |
